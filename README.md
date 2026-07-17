@@ -13,6 +13,7 @@
 
   <a href="https://www.linkedin.com/in/ahmed-ali-khalifa-2a46753a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" alt="LinkedIn" /></a>
   <a href="https://github.com/err0rKhalifa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=030712" alt="GitHub" /></a>
+  <a href="https://t.me/error_ah1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=030712" alt="Telegram" /></a>
   <!-- TODO: add your public email below -->
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Baghdad,%20Iraq-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=030712" alt="Location" />
@@ -98,11 +99,7 @@ I began on the offensive side and moved deliberately toward defense. I build ful
 <!-- ============================  PROJECT  ============================ -->
 ## Featured Project
 
-<a href="https://github.com/err0rKhalifa/Operation-Shadow-Grid">
-  <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=err0rKhalifa&repo=Operation-Shadow-Grid&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=94A3B8&icon_color=7C3AED" alt="Operation Shadow Grid" />
-</a>
-
-### Operation Shadow Grid
+**[Operation Shadow Grid](https://github.com/err0rKhalifa/Operation-Shadow-Grid)**
 
 A 7 VM Splunk SIEM detection lab simulating a full enterprise attack chain, from reconnaissance through DNS tunneling exfiltration, with detection at every phase.
 
@@ -110,20 +107,6 @@ A 7 VM Splunk SIEM detection lab simulating a full enterprise attack chain, from
 - 5 dashboards and an ATT&CK Navigator heatmap
 - Stack: pfSense, Active Directory, Sysmon, Universal Forwarders, Zeek, Suricata
 - Network architecture diagram and full detection rules catalog
-
-[View the repository](https://github.com/err0rKhalifa/Operation-Shadow-Grid)
-
-<br clear="left"/>
-
-<br/>
-
-<!-- ============================  STATS  ============================ -->
-## GitHub Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=err0rKhalifa&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=94A3B8&icon_color=7C3AED" alt="Stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=err0rKhalifa&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=94A3B8&langs_count=6" alt="Top Languages" />
-</div>
 
 <br/>
 
@@ -148,6 +131,7 @@ Open to SOC Analyst, Detection Engineering, and Blue Team opportunities in Iraq 
 
 <a href="https://www.linkedin.com/in/ahmed-ali-khalifa-2a46753a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712"/></a>
 <a href="https://github.com/err0rKhalifa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=030712"/></a>
+<a href="https://t.me/error_ah1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=030712"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712"/></a>
 
 </div>
